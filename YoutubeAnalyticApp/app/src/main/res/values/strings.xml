@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WriteRight</string>
+    <string name="writeright">WriteRight</string>
+    <string name="summarize_text">Summarize Text</string>
+    <string name="summarize_description">Get a short summary of a long passage</string>
+    <string name="sentiment_text">Analyze Sentiment</string>
+    <string name="sentiment_description">Get the mood of the text</string>
+    <string name="correctness_text">Grammar Check</string>
+    <string name="correctness_decription">Got you covered for Grammatical errors!</string>
+</resources>
